@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on web design using such as Angular and back end software design using such as C#, Typescript and Python.
 - 📫 You can reach me on linkedin and my email which are written bellow.
 
-linkedin : https://www.linkedin.com/in/ahmet-%C3%A7alik-2a023b1a5/
+linkedin : https://www.linkedin.com/in/ahmtcalik/
 email    : ahmtcalik.29@gmail.com
